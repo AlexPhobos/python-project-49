@@ -9,3 +9,6 @@
 
 ### **2. Calc game!**
 [![game-calc](https://i.pinimg.com/736x/18/7e/11/187e11e44164286b5ffbac5526e62966--ascii-art-puppy.jpg)](https://asciinema.org/a/1JVSdfl34gc0y21o8JyD2WnWu)
+
+### **3. Gcd game!**
+[![game-gcd](https://img-9gag-fun.9cache.com/photo/aME9WQR_460s.jpg)](https://asciinema.org/a/YnzXrbLnJoJeOffzzQ8kMeKby)

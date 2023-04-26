@@ -5,13 +5,16 @@
 ## Test yourself in five math mini-games :D
 
 ### **1. Even game!**
-[![game-even](https://sweetcode.io/wp-content/uploads/2018/01/ascii_dog.gif)](https://asciinema.org/a/leUC0xfXX4Rm7vBMd8j0OQ5qn)
+[![game-even](https://asciinema.org/a/leUC0xfXX4Rm7vBMd8j0OQ5qn.png)](https://asciinema.org/a/leUC0xfXX4Rm7vBMd8j0OQ5qn)
 
 ### **2. Calc game!**
-[![game-calc](https://i.pinimg.com/736x/18/7e/11/187e11e44164286b5ffbac5526e62966--ascii-art-puppy.jpg)](https://asciinema.org/a/1JVSdfl34gc0y21o8JyD2WnWu)
+[![game-calc](https://asciinema.org/a/1JVSdfl34gc0y21o8JyD2WnWu.png)](https://asciinema.org/a/1JVSdfl34gc0y21o8JyD2WnWu)
 
 ### **3. Gcd game!**
-[![game-gcd](https://img-9gag-fun.9cache.com/photo/aME9WQR_460s.jpg)](https://asciinema.org/a/YnzXrbLnJoJeOffzzQ8kMeKby)
+[![game-gcd](https://asciinema.org/a/YnzXrbLnJoJeOffzzQ8kMeKby.png)](https://asciinema.org/a/YnzXrbLnJoJeOffzzQ8kMeKby)
 
 ### **4. Progression game!**
-[![game-progression](https://i.imgur.com/1zPeEuP.jpeg)](https://asciinema.org/a/273HyzLdOrXqOevgXGqDU1mff)
+[![game-progression](https://asciinema.org/a/273HyzLdOrXqOevgXGqDU1mff.png)](https://asciinema.org/a/273HyzLdOrXqOevgXGqDU1mff)
+
+### **5. Prim game!**
+[![game-prim](https://asciinema.org/a/E2KnEFCLahWE8q4JIatpmYgtE.png)](https://asciinema.org/a/E2KnEFCLahWE8q4JIatpmYgtE)

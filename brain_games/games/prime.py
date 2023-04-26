@@ -2,6 +2,8 @@ from random import randint
 
 
 Rule = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+
+
 def game():
     number = randint(1, 100)
     if number == 1:

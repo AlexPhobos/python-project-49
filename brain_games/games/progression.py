@@ -2,6 +2,8 @@ from random import randint, choice
 
 
 Rule = 'What number is missing in the progression?'
+
+
 def game():
     progression = []
     number = ''

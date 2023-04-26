@@ -12,3 +12,6 @@
 
 ### **3. Gcd game!**
 [![game-gcd](https://img-9gag-fun.9cache.com/photo/aME9WQR_460s.jpg)](https://asciinema.org/a/YnzXrbLnJoJeOffzzQ8kMeKby)
+
+### **4. Progression game!**
+[![game-progression](https://i.imgur.com/1zPeEuP.jpeg)](https://asciinema.org/a/273HyzLdOrXqOevgXGqDU1mff)

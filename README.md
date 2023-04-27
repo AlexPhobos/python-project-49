@@ -1,5 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/AlexPhobos/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/AlexPhobos/python-project-49/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/080a5448c39714416a59/maintainability)](https://codeclimate.com/github/AlexPhobos/python-project-49/maintainability)
 
 # Brain game project.
 ## Test yourself in five math mini-games :D
